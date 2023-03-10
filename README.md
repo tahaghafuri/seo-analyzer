@@ -7,7 +7,9 @@ Basic PHP library to check several SEO metrics of a website.
 
 ## Installation
 
-composer require grgk/seo-analyzer
+```
+composer require tahaghafuri/seo-analyzer
+```
 
 ## How to use?
 
@@ -41,6 +43,3 @@ This tools uses several metrics to analyze and rate website suggesting some SEO 
 On how to translate messages please check `examples/analyze_url_with_keyword_translated.php` file.
 
 You can add more translations by adding translation files to `locale` directory.
-
-## License
-Licensed under the [MIT license](http://opensource.org/licenses/MIT).
